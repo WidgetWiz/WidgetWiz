@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on tutorials
 - 📫 How to reach me ...
+-   email: osamasalah.u@gmail.com
 
 <!---
 WidgetWiz/WidgetWiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
